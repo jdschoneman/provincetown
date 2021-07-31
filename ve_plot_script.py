@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+Generate plots for relationships between breakthrough infection fraction,
+percentage of population vaccinated, and vaccine effectiveness. 
 """
 
 import numpy as np
